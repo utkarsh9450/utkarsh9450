@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Utkarsh Dixit
-- 👀 I’m interested in Network Security, Web development, Computer Networks.
-- 🌱 I’m currently learning Web development.
-- 💞️ I’m looking to collaborate on web-dev projects.
+- 👀 I’m have keen interest frontend engineering
+- 🌱 I’m currently learning Web development
+- 💞️ I’m looking to collaborate on web-dev projects
 - 📫 Linkedin- https://www.linkedin.com/in/utkarsh-dixit-7a259b199/
 - Javascript is ❤️
 <!---
